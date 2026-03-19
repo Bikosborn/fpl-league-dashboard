@@ -6,149 +6,47 @@
     "timezone": "Africa/Nairobi",
     "liveMode": true,
     "winnerRule": "Winner = live/current gameweek points minus transfer cost.",
-    "generatedAt": "2026-03-14T14:37:47.115Z",
+    "generatedAt": "2026-03-19T15:47:52.114Z",
     "currentEvent": 30,
-    "latestFinishedEvent": 29
+    "latestFinishedEvent": 30
   },
   "totals": {
-    "managerCount": 4,
-    "weeklyPot": 400,
-    "currentWinnerCount": 4,
-    "splitPayout": 100
+    "managerCount": 5,
+    "weeklyPot": 500,
+    "currentWinnerCount": 1,
+    "splitPayout": 500
   },
   "liveLeaders": [
-    {
-      "entryId": 607573,
-      "playerName": "Dr Nosleep",
-      "entryName": "Kingpin",
-      "rank": 3,
-      "lastRank": 3,
-      "totalPoints": 1509,
-      "eventPoints": 0,
-      "transferCost": 0,
-      "netGwPoints": 0,
-      "previousGwPoints": 25,
-      "pointsDelta": -25,
-      "rankChange": 0,
-      "winsCount": 6,
-      "drawWinsCount": 2,
-      "lastWinGw": 9,
-      "highestGwScore": 96,
-      "lowestGwScore": 0,
-      "topContributors": [
-        {
-          "name": "Erling Haaland",
-          "points": 183
-        },
-        {
-          "name": "João Pedro Junqueira de Jesus",
-          "points": 176
-        },
-        {
-          "name": "Cole Palmer",
-          "points": 153
-        }
-      ],
-      "balanceDue": 0
-    },
-    {
-      "entryId": 1964441,
-      "playerName": "iqbal Khan",
-      "entryName": "THE THIRD ESTATE",
-      "rank": 2,
-      "lastRank": 2,
-      "totalPoints": 1574,
-      "eventPoints": 0,
-      "transferCost": 0,
-      "netGwPoints": 0,
-      "previousGwPoints": 67,
-      "pointsDelta": -67,
-      "rankChange": 0,
-      "winsCount": 8,
-      "drawWinsCount": 3,
-      "lastWinGw": 2,
-      "highestGwScore": 87,
-      "lowestGwScore": 0,
-      "topContributors": [
-        {
-          "name": "Bruno Borges Fernandes",
-          "points": 225
-        },
-        {
-          "name": "Erling Haaland",
-          "points": 187
-        },
-        {
-          "name": "Gabriel dos Santos Magalhães",
-          "points": 136
-        }
-      ],
-      "balanceDue": 0
-    },
     {
       "entryId": 5245396,
       "playerName": "Rein Bulimo",
       "entryName": "Rein",
       "rank": 1,
       "lastRank": 1,
-      "totalPoints": 1711,
-      "eventPoints": 0,
+      "totalPoints": 1765,
+      "eventPoints": 54,
       "transferCost": 0,
-      "netGwPoints": 0,
-      "previousGwPoints": 78,
-      "pointsDelta": -78,
+      "netGwPoints": 54,
+      "previousGwPoints": 60,
+      "pointsDelta": -6,
       "rankChange": 0,
-      "winsCount": 15,
-      "drawWinsCount": 2,
+      "winsCount": 10,
+      "drawWinsCount": 0,
       "lastWinGw": 1,
       "highestGwScore": 82,
-      "lowestGwScore": 0,
+      "lowestGwScore": 34,
       "topContributors": [
         {
           "name": "Erling Haaland",
-          "points": 356
+          "points": 360
         },
         {
           "name": "Gabriel dos Santos Magalhães",
-          "points": 101
+          "points": 110
         },
         {
           "name": "Gianluigi Donnarumma",
-          "points": 95
-        }
-      ],
-      "balanceDue": 0
-    },
-    {
-      "entryId": 5219095,
-      "playerName": "Walter Sitati",
-      "entryName": "sixty",
-      "rank": 5,
-      "lastRank": 5,
-      "totalPoints": 1432,
-      "eventPoints": 0,
-      "transferCost": 0,
-      "netGwPoints": 0,
-      "previousGwPoints": 53,
-      "pointsDelta": -53,
-      "rankChange": 0,
-      "winsCount": 6,
-      "drawWinsCount": 1,
-      "lastWinGw": 7,
-      "highestGwScore": 91,
-      "lowestGwScore": 0,
-      "topContributors": [
-        {
-          "name": "Erling Haaland",
-          "points": 159
-        },
-        {
-          "name": "Gabriel dos Santos Magalhães",
-          "points": 119
-        },
-        {
-          "name": "Cole Palmer",
-          "points": 95
+          "points": 97
         }
       ],
       "balanceDue": 0
@@ -156,35 +54,35 @@
   ],
   "overallRows": [
     {
-      "entryId": 607573,
-      "playerName": "Dr Nosleep",
-      "entryName": "Kingpin",
-      "rank": 3,
-      "lastRank": 3,
-      "totalPoints": 1509,
-      "eventPoints": 0,
+      "entryId": 5245396,
+      "playerName": "Rein Bulimo",
+      "entryName": "Rein",
+      "rank": 1,
+      "lastRank": 1,
+      "totalPoints": 1765,
+      "eventPoints": 54,
       "transferCost": 0,
-      "netGwPoints": 0,
-      "previousGwPoints": 25,
-      "pointsDelta": -25,
+      "netGwPoints": 54,
+      "previousGwPoints": 60,
+      "pointsDelta": -6,
       "rankChange": 0,
-      "winsCount": 6,
-      "drawWinsCount": 2,
-      "lastWinGw": 9,
-      "highestGwScore": 96,
-      "lowestGwScore": 0,
+      "winsCount": 10,
+      "drawWinsCount": 0,
+      "lastWinGw": 1,
+      "highestGwScore": 82,
+      "lowestGwScore": 34,
       "topContributors": [
         {
           "name": "Erling Haaland",
-          "points": 183
+          "points": 360
         },
         {
-          "name": "João Pedro Junqueira de Jesus",
-          "points": 176
+          "name": "Gabriel dos Santos Magalhães",
+          "points": 110
         },
         {
-          "name": "Cole Palmer",
-          "points": 153
+          "name": "Gianluigi Donnarumma",
+          "points": 97
         }
       ],
       "balanceDue": 0
@@ -193,24 +91,24 @@
       "entryId": 1964441,
       "playerName": "iqbal Khan",
       "entryName": "THE THIRD ESTATE",
-      "rank": 2,
+      "rank": 3,
       "lastRank": 2,
-      "totalPoints": 1574,
-      "eventPoints": 0,
+      "totalPoints": 1625,
+      "eventPoints": 51,
       "transferCost": 0,
-      "netGwPoints": 0,
-      "previousGwPoints": 67,
-      "pointsDelta": -67,
-      "rankChange": 0,
-      "winsCount": 8,
-      "drawWinsCount": 3,
+      "netGwPoints": 51,
+      "previousGwPoints": 75,
+      "pointsDelta": -24,
+      "rankChange": -1,
+      "winsCount": 5,
+      "drawWinsCount": 0,
       "lastWinGw": 2,
       "highestGwScore": 87,
-      "lowestGwScore": 0,
+      "lowestGwScore": 27,
       "topContributors": [
         {
           "name": "Bruno Borges Fernandes",
-          "points": 225
+          "points": 245
         },
         {
           "name": "Erling Haaland",
@@ -218,41 +116,41 @@
         },
         {
           "name": "Gabriel dos Santos Magalhães",
-          "points": 136
+          "points": 145
         }
       ],
       "balanceDue": 0
     },
     {
-      "entryId": 5245396,
-      "playerName": "Rein Bulimo",
-      "entryName": "Rein",
-      "rank": 1,
-      "lastRank": 1,
-      "totalPoints": 1711,
-      "eventPoints": 0,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "rank": 2,
+      "lastRank": 0,
+      "totalPoints": 1729,
+      "eventPoints": 47,
       "transferCost": 0,
-      "netGwPoints": 0,
-      "previousGwPoints": 78,
-      "pointsDelta": -78,
-      "rankChange": 0,
-      "winsCount": 15,
-      "drawWinsCount": 2,
-      "lastWinGw": 1,
-      "highestGwScore": 82,
-      "lowestGwScore": 0,
+      "netGwPoints": 47,
+      "previousGwPoints": 65,
+      "pointsDelta": -18,
+      "rankChange": null,
+      "winsCount": 9,
+      "drawWinsCount": 0,
+      "lastWinGw": 6,
+      "highestGwScore": 101,
+      "lowestGwScore": 29,
       "topContributors": [
         {
           "name": "Erling Haaland",
-          "points": 356
+          "points": 237
         },
         {
           "name": "Gabriel dos Santos Magalhães",
-          "points": 101
+          "points": 162
         },
         {
-          "name": "Gianluigi Donnarumma",
-          "points": 95
+          "name": "João Pedro Junqueira de Jesus",
+          "points": 153
         }
       ],
       "balanceDue": 0
@@ -263,18 +161,18 @@
       "entryName": "sixty",
       "rank": 5,
       "lastRank": 5,
-      "totalPoints": 1432,
-      "eventPoints": 0,
+      "totalPoints": 1476,
+      "eventPoints": 44,
       "transferCost": 0,
-      "netGwPoints": 0,
-      "previousGwPoints": 53,
-      "pointsDelta": -53,
+      "netGwPoints": 44,
+      "previousGwPoints": 85,
+      "pointsDelta": -41,
       "rankChange": 0,
-      "winsCount": 6,
-      "drawWinsCount": 1,
+      "winsCount": 4,
+      "drawWinsCount": 0,
       "lastWinGw": 7,
       "highestGwScore": 91,
-      "lowestGwScore": 0,
+      "lowestGwScore": 20,
       "topContributors": [
         {
           "name": "Erling Haaland",
@@ -282,11 +180,45 @@
         },
         {
           "name": "Gabriel dos Santos Magalhães",
-          "points": 119
+          "points": 128
         },
         {
           "name": "Cole Palmer",
-          "points": 95
+          "points": 97
+        }
+      ],
+      "balanceDue": 0
+    },
+    {
+      "entryId": 607573,
+      "playerName": "Dr Nosleep",
+      "entryName": "Kingpin",
+      "rank": 4,
+      "lastRank": 3,
+      "totalPoints": 1546,
+      "eventPoints": 37,
+      "transferCost": 0,
+      "netGwPoints": 37,
+      "previousGwPoints": 77,
+      "pointsDelta": -40,
+      "rankChange": -1,
+      "winsCount": 2,
+      "drawWinsCount": 0,
+      "lastWinGw": 19,
+      "highestGwScore": 96,
+      "lowestGwScore": 25,
+      "topContributors": [
+        {
+          "name": "Erling Haaland",
+          "points": 185
+        },
+        {
+          "name": "João Pedro Junqueira de Jesus",
+          "points": 178
+        },
+        {
+          "name": "Cole Palmer",
+          "points": 157
         }
       ],
       "balanceDue": 0
@@ -298,48 +230,12 @@
       "entryId": 5245396,
       "playerName": "Rein Bulimo",
       "entryName": "Rein",
-      "grossPoints": 0,
+      "grossPoints": 54,
       "transferCost": 0,
-      "netPoints": 0,
-      "isDraw": true,
-      "tiedWinnersCount": 4,
-      "payoutEach": 100
-    },
-    {
-      "gameweek": 30,
-      "entryId": 1964441,
-      "playerName": "iqbal Khan",
-      "entryName": "THE THIRD ESTATE",
-      "grossPoints": 0,
-      "transferCost": 0,
-      "netPoints": 0,
-      "isDraw": true,
-      "tiedWinnersCount": 4,
-      "payoutEach": 100
-    },
-    {
-      "gameweek": 30,
-      "entryId": 607573,
-      "playerName": "Dr Nosleep",
-      "entryName": "Kingpin",
-      "grossPoints": 0,
-      "transferCost": 0,
-      "netPoints": 0,
-      "isDraw": true,
-      "tiedWinnersCount": 4,
-      "payoutEach": 100
-    },
-    {
-      "gameweek": 30,
-      "entryId": 5219095,
-      "playerName": "Walter Sitati",
-      "entryName": "sixty",
-      "grossPoints": 0,
-      "transferCost": 0,
-      "netPoints": 0,
-      "isDraw": true,
-      "tiedWinnersCount": 4,
-      "payoutEach": 100
+      "netPoints": 54,
+      "isDraw": false,
+      "tiedWinnersCount": 1,
+      "payoutEach": 500
     },
     {
       "gameweek": 29,
@@ -351,7 +247,7 @@
       "netPoints": 85,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 28,
@@ -363,7 +259,7 @@
       "netPoints": 78,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 27,
@@ -375,7 +271,7 @@
       "netPoints": 49,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 26,
@@ -387,7 +283,7 @@
       "netPoints": 82,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 25,
@@ -399,43 +295,31 @@
       "netPoints": 96,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 24,
-      "entryId": 5245396,
-      "playerName": "Rein Bulimo",
-      "entryName": "Rein",
-      "grossPoints": 62,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "grossPoints": 69,
       "transferCost": 0,
-      "netPoints": 62,
-      "isDraw": true,
-      "tiedWinnersCount": 2,
-      "payoutEach": 200
-    },
-    {
-      "gameweek": 24,
-      "entryId": 1964441,
-      "playerName": "iqbal Khan",
-      "entryName": "THE THIRD ESTATE",
-      "grossPoints": 62,
-      "transferCost": 0,
-      "netPoints": 62,
-      "isDraw": true,
-      "tiedWinnersCount": 2,
-      "payoutEach": 200
+      "netPoints": 69,
+      "isDraw": false,
+      "tiedWinnersCount": 1,
+      "payoutEach": 500
     },
     {
       "gameweek": 23,
-      "entryId": 5245396,
-      "playerName": "Rein Bulimo",
-      "entryName": "Rein",
-      "grossPoints": 43,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "grossPoints": 46,
       "transferCost": 0,
-      "netPoints": 43,
+      "netPoints": 46,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 22,
@@ -447,7 +331,7 @@
       "netPoints": 49,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 21,
@@ -459,7 +343,7 @@
       "netPoints": 61,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 20,
@@ -471,7 +355,7 @@
       "netPoints": 64,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 19,
@@ -483,55 +367,43 @@
       "netPoints": 58,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 18,
-      "entryId": 5245396,
-      "playerName": "Rein Bulimo",
-      "entryName": "Rein",
-      "grossPoints": 54,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "grossPoints": 65,
       "transferCost": 0,
-      "netPoints": 54,
+      "netPoints": 65,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 17,
-      "entryId": 1964441,
-      "playerName": "iqbal Khan",
-      "entryName": "THE THIRD ESTATE",
-      "grossPoints": 87,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "grossPoints": 90,
       "transferCost": 0,
-      "netPoints": 87,
-      "isDraw": true,
-      "tiedWinnersCount": 2,
-      "payoutEach": 200
-    },
-    {
-      "gameweek": 17,
-      "entryId": 607573,
-      "playerName": "Dr Nosleep",
-      "entryName": "Kingpin",
-      "grossPoints": 87,
-      "transferCost": 0,
-      "netPoints": 87,
-      "isDraw": true,
-      "tiedWinnersCount": 2,
-      "payoutEach": 200
+      "netPoints": 90,
+      "isDraw": false,
+      "tiedWinnersCount": 1,
+      "payoutEach": 500
     },
     {
       "gameweek": 16,
-      "entryId": 5245396,
-      "playerName": "Rein Bulimo",
-      "entryName": "Rein",
-      "grossPoints": 81,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "grossPoints": 101,
       "transferCost": 0,
-      "netPoints": 81,
+      "netPoints": 101,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 15,
@@ -543,7 +415,7 @@
       "netPoints": 82,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 14,
@@ -555,7 +427,7 @@
       "netPoints": 76,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 13,
@@ -567,19 +439,19 @@
       "netPoints": 46,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 12,
-      "entryId": 607573,
-      "playerName": "Dr Nosleep",
-      "entryName": "Kingpin",
-      "grossPoints": 45,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "grossPoints": 52,
       "transferCost": 0,
-      "netPoints": 45,
+      "netPoints": 52,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 11,
@@ -591,31 +463,31 @@
       "netPoints": 71,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 10,
-      "entryId": 5219095,
-      "playerName": "Walter Sitati",
-      "entryName": "sixty",
-      "grossPoints": 78,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "grossPoints": 80,
       "transferCost": 0,
-      "netPoints": 78,
+      "netPoints": 80,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 9,
-      "entryId": 607573,
-      "playerName": "Dr Nosleep",
-      "entryName": "Kingpin",
-      "grossPoints": 61,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "grossPoints": 65,
       "transferCost": 0,
-      "netPoints": 61,
+      "netPoints": 65,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 8,
@@ -627,7 +499,7 @@
       "netPoints": 73,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 7,
@@ -639,19 +511,19 @@
       "netPoints": 78,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 6,
-      "entryId": 5245396,
-      "playerName": "Rein Bulimo",
-      "entryName": "Rein",
-      "grossPoints": 64,
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "grossPoints": 68,
       "transferCost": 0,
-      "netPoints": 64,
+      "netPoints": 68,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 5,
@@ -663,7 +535,7 @@
       "netPoints": 45,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 4,
@@ -675,7 +547,7 @@
       "netPoints": 83,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 3,
@@ -687,7 +559,7 @@
       "netPoints": 57,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 2,
@@ -699,7 +571,7 @@
       "netPoints": 73,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     },
     {
       "gameweek": 1,
@@ -711,7 +583,7 @@
       "netPoints": 72,
       "isDraw": false,
       "tiedWinnersCount": 1,
-      "payoutEach": 400
+      "payoutEach": 500
     }
   ],
   "managerSummary": [
@@ -719,24 +591,49 @@
       "entryId": 5245396,
       "playerName": "Rein Bulimo",
       "entryName": "Rein",
-      "winsCount": 15,
-      "drawWinsCount": 2,
+      "winsCount": 10,
+      "drawWinsCount": 0,
       "lastWinGw": 1,
       "highestGwScore": 82,
-      "lowestGwScore": 0,
+      "lowestGwScore": 34,
       "balanceDue": 0,
       "topContributors": [
         {
           "name": "Erling Haaland",
-          "points": 356
+          "points": 360
         },
         {
           "name": "Gabriel dos Santos Magalhães",
-          "points": 101
+          "points": 110
         },
         {
           "name": "Gianluigi Donnarumma",
-          "points": 95
+          "points": 97
+        }
+      ]
+    },
+    {
+      "entryId": 5739533,
+      "playerName": "Javan M",
+      "entryName": "Mr. UnliM'ited",
+      "winsCount": 9,
+      "drawWinsCount": 0,
+      "lastWinGw": 6,
+      "highestGwScore": 101,
+      "lowestGwScore": 29,
+      "balanceDue": 0,
+      "topContributors": [
+        {
+          "name": "Erling Haaland",
+          "points": 237
+        },
+        {
+          "name": "Gabriel dos Santos Magalhães",
+          "points": 162
+        },
+        {
+          "name": "João Pedro Junqueira de Jesus",
+          "points": 153
         }
       ]
     },
@@ -744,16 +641,16 @@
       "entryId": 1964441,
       "playerName": "iqbal Khan",
       "entryName": "THE THIRD ESTATE",
-      "winsCount": 8,
-      "drawWinsCount": 3,
+      "winsCount": 5,
+      "drawWinsCount": 0,
       "lastWinGw": 2,
       "highestGwScore": 87,
-      "lowestGwScore": 0,
+      "lowestGwScore": 27,
       "balanceDue": 0,
       "topContributors": [
         {
           "name": "Bruno Borges Fernandes",
-          "points": 225
+          "points": 245
         },
         {
           "name": "Erling Haaland",
@@ -761,32 +658,7 @@
         },
         {
           "name": "Gabriel dos Santos Magalhães",
-          "points": 136
-        }
-      ]
-    },
-    {
-      "entryId": 607573,
-      "playerName": "Dr Nosleep",
-      "entryName": "Kingpin",
-      "winsCount": 6,
-      "drawWinsCount": 2,
-      "lastWinGw": 9,
-      "highestGwScore": 96,
-      "lowestGwScore": 0,
-      "balanceDue": 0,
-      "topContributors": [
-        {
-          "name": "Erling Haaland",
-          "points": 183
-        },
-        {
-          "name": "João Pedro Junqueira de Jesus",
-          "points": 176
-        },
-        {
-          "name": "Cole Palmer",
-          "points": 153
+          "points": 145
         }
       ]
     },
@@ -794,11 +666,11 @@
       "entryId": 5219095,
       "playerName": "Walter Sitati",
       "entryName": "sixty",
-      "winsCount": 6,
-      "drawWinsCount": 1,
+      "winsCount": 4,
+      "drawWinsCount": 0,
       "lastWinGw": 7,
       "highestGwScore": 91,
-      "lowestGwScore": 0,
+      "lowestGwScore": 20,
       "balanceDue": 0,
       "topContributors": [
         {
@@ -807,11 +679,36 @@
         },
         {
           "name": "Gabriel dos Santos Magalhães",
-          "points": 119
+          "points": 128
         },
         {
           "name": "Cole Palmer",
-          "points": 95
+          "points": 97
+        }
+      ]
+    },
+    {
+      "entryId": 607573,
+      "playerName": "Dr Nosleep",
+      "entryName": "Kingpin",
+      "winsCount": 2,
+      "drawWinsCount": 0,
+      "lastWinGw": 19,
+      "highestGwScore": 96,
+      "lowestGwScore": 25,
+      "balanceDue": 0,
+      "topContributors": [
+        {
+          "name": "Erling Haaland",
+          "points": 185
+        },
+        {
+          "name": "João Pedro Junqueira de Jesus",
+          "points": 178
+        },
+        {
+          "name": "Cole Palmer",
+          "points": 157
         }
       ]
     }
