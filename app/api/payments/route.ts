@@ -1,5 +1,5 @@
-import { NextRequest, NextResponse } from 'next/server';
-import { readPayments, writePayments } from '@/lib/store';
+import { NextRequest, NextResponse } from "next/server";
+import { readPayments, writePayments } from "@/lib/store";
 
 export async function POST(request: NextRequest) {
   try {
@@ -10,7 +10,8 @@ export async function POST(request: NextRequest) {
       amount?: number;
     };
 
-    const payments = readPayments();
+    const payments = await readPayments();
+
     const next = payments.filter(
       (row) => !(row.gameweek === body.gameweek && row.entryId === body.entryId)
     );
@@ -23,11 +24,15 @@ export async function POST(request: NextRequest) {
       updatedAt: new Date().toISOString(),
     });
 
-    writePayments(next);
+    await writePayments(next);
+
     return NextResponse.json({ ok: true, payments: next });
   } catch (error) {
     return NextResponse.json(
-      { ok: false, error: error instanceof Error ? error.message : 'Unknown error' },
+      {
+        ok: false,
+        error: error instanceof Error ? error.message : "Unknown error",
+      },
       { status: 500 }
     );
   }
